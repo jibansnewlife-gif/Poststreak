@@ -1,19 +1,27 @@
 # PostStreak
 
-PostStreak Alpha v0.3.0
+Habit tracking web app
 
-Added:
+---
 
+## Versions
+
+### v0.3.1-alpha
+- Improved UI
+- Glass transparent interface
+- Animated background
+- Smooth floating blobs
+- Navbar animation
 - Multi-page layout
 
+### v0.3.0-alpha
+- Multi-page UI
 - Navigation bar
-
-- Dashboard page
-
 - Stats page
-
 - Settings page
 
-A habit tracking web app designed to help users maintain streaks and avoid bad habits.
+### v0.2.0-alpha
+- localStorage save
 
-Status: Prototype
+### v0.1.0-alpha
+- Basic streak counter
