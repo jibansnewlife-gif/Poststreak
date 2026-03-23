@@ -1,6 +1,6 @@
 # PostStreak
 
-Version: Alpha v0.1.0
+Version: Alpha v0.2.0
 
 -added simple streak counter
 -added reset button
