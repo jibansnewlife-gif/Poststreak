@@ -1,9 +1,18 @@
 # PostStreak
 
-Version: Alpha v0.2.0
+PostStreak Alpha v0.3.0
 
--added simple streak counter
--added reset button
+Added:
+
+- Multi-page layout
+
+- Navigation bar
+
+- Dashboard page
+
+- Stats page
+
+- Settings page
 
 A habit tracking web app designed to help users maintain streaks and avoid bad habits.
 

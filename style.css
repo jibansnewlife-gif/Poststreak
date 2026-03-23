@@ -5,6 +5,17 @@ body {
     color: white;
 }
 
+nav {
+    background: black;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
 #streakBox {
     margin-top: 50px;
     padding: 20px;
