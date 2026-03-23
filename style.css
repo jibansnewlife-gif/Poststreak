@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #111;
+    color: white;
+}
+
+#streakBox {
+    margin-top: 50px;
+    padding: 20px;
+    border: 2px solid white;
+    display: inline-block;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+}
